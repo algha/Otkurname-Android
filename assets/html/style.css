@@ -1,0 +1,5 @@
+ @font-face {
+    font-family: "UKIJ Ekran";
+    src: url("file:///android_asset/UKIJEkran.ttf")
+}
+body{ font-family:"UKIJ Ekran";}

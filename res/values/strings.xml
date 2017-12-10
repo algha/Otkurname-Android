@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ötkürname</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="name">ئۆتكۈرنامە</string>
+	<string name="about">ئەپ ھەققىدە</string>
+	
+	<string name="about_app">ئەپ ھەققىدە</string>
+	<string name="blog">ئەپ ئاچقۇچىنىڭ بلوگى</string>
+	<string name="pikir">ئەپكە پىكىر بېرىڭ</string>
+</resources>
